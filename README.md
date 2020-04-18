@@ -11,3 +11,4 @@ Elaborar un analizador léxico en lex para la siguiente especificación:
 -Comentarios que deben ser ignorados
 -Constantes numéricas: enteros y decimales
 -Ignorar los espacios en blanco
+
